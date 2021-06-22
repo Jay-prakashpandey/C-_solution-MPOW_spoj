@@ -1,3 +1,4 @@
+//problem https://www.spoj.com/problems/MPOW/
 #include<iostream>
 #define M 51
 
