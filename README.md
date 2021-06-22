@@ -1,2 +1,1 @@
-# C-_solution-MPOW_spoj
-using binary exponentiation Nth power of matrixes
+Solution of spoj, codechef, Hackerrank etc.
